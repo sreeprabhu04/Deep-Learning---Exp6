@@ -1,16 +1,16 @@
 # Deep-Learning---Exp6
 
- **DL- Developing a Deep Learning Model for NER using LSTM**
+ **DL- Implement a Recurrent Neural Network model for stock price prediction.**
 
 **AIM**
 
-To develop an LSTM-based model for recognizing the named entities in the text.
+To develop a Recurrent Neural Network (RNN) model for predicting stock prices using historical closing price data.
 
 **THEORY**
 
 **Neural Network Model**
 
-Include the neural network model diagram.
+
 
 **DESIGN STEPS**
 
@@ -42,7 +42,7 @@ Write your own steps
 
 **OUTPUT**
 
-**Loss Vs Epoch Plot**
+
 
 Include your plot here
 
